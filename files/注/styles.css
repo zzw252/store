@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u192_div {
+#u244_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -26,14 +26,14 @@
   -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
   box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
 }
-#u192 {
+#u244 {
   position:absolute;
   left:21px;
   top:39px;
   width:229px;
   height:342px;
 }
-#u193 {
+#u245 {
   position:absolute;
   left:10px;
   top:10px;
