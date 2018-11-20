@@ -1,0 +1,126 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:791px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u58_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:775px;
+  height:296px;
+}
+#u58 {
+  position:absolute;
+  left:16px;
+  top:53px;
+  width:775px;
+  height:296px;
+}
+#u59 {
+  position:absolute;
+  left:2px;
+  top:140px;
+  width:771px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u60_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:109px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+}
+#u60 {
+  position:absolute;
+  left:16px;
+  top:14px;
+  width:109px;
+  height:22px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+}
+#u61 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:109px;
+  white-space:nowrap;
+}
+#u62_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:577px;
+  height:170px;
+}
+#u62 {
+  position:absolute;
+  left:16px;
+  top:528px;
+  width:577px;
+  height:170px;
+}
+#u63 {
+  position:absolute;
+  left:2px;
+  top:77px;
+  width:573px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u64_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:199px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+}
+#u64 {
+  position:absolute;
+  left:16px;
+  top:467px;
+  width:199px;
+  height:22px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+}
+#u65 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:199px;
+  white-space:nowrap;
+}
