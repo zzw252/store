@@ -1,5 +1,6 @@
 ﻿body {
   margin:0px;
+  background-color:rgba(242, 242, 242, 1);
   background-image:none;
   position:static;
   left:auto;
@@ -45,7 +46,7 @@
   left:0px;
   top:0px;
   width:190px;
-  height:256px;
+  height:240px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -59,7 +60,7 @@
   left:355px;
   top:41px;
   width:190px;
-  height:256px;
+  height:240px;
 }
 #u51 {
   position:absolute;
@@ -85,7 +86,7 @@
 #u52 {
   position:absolute;
   left:30px;
-  top:163px;
+  top:194px;
   width:174px;
   height:128px;
 }
@@ -171,5 +172,89 @@
   left:0px;
   top:0px;
   width:300px;
+  word-wrap:break-word;
+}
+#u60_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:190px;
+  height:96px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u60 {
+  position:absolute;
+  left:355px;
+  top:475px;
+  width:190px;
+  height:96px;
+}
+#u61 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:190px;
+  word-wrap:break-word;
+}
+#u62_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:190px;
+  height:64px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u62 {
+  position:absolute;
+  left:355px;
+  top:604px;
+  width:190px;
+  height:64px;
+}
+#u63 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:190px;
+  word-wrap:break-word;
+}
+#u64_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:190px;
+  height:96px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u64 {
+  position:absolute;
+  left:30px;
+  top:493px;
+  width:190px;
+  height:96px;
+}
+#u65 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:190px;
   word-wrap:break-word;
 }

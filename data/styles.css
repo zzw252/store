@@ -59,6 +59,8 @@
 }
 ._流程形状 {
 }
+._连接线 {
+}
 .sticky_2 {
   text-align:left;
 }
@@ -66,9 +68,13 @@
 }
 .line {
 }
+.table_cell {
+}
 .label {
   font-size:14px;
   text-align:left;
 }
 .box_3 {
+}
+.flow_shape {
 }

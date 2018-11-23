@@ -1,5 +1,6 @@
 ﻿body {
   margin:0px;
+  background-color:rgba(242, 242, 242, 1);
   background-image:none;
   position:static;
   left:auto;
@@ -12,7 +13,7 @@
   position:absolute;
   z-index:0;
 }
-#u541_div {
+#u728_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -26,14 +27,14 @@
   -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
   box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
 }
-#u541 {
+#u728 {
   position:absolute;
   left:21px;
   top:39px;
   width:229px;
   height:342px;
 }
-#u542 {
+#u729 {
   position:absolute;
   left:10px;
   top:10px;
