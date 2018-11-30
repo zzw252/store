@@ -68,6 +68,8 @@
 }
 .line {
 }
+.arrow {
+}
 .table_cell {
 }
 .label {
@@ -132,4 +134,24 @@
   text-align:left;
 }
 .line1 {
+}
+.horizontal_line {
+}
+.box_32 {
+}
+.box_12 {
+}
+.line2 {
+}
+.ellipse2 {
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+._形状 {
+  font-family:'Microsoft New Tai Lue Bold', 'Microsoft New Tai Lue Regular', 'Microsoft New Tai Lue';
+  font-weight:700;
+  font-style:normal;
+  color:#FF0066;
 }
